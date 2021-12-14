@@ -1,0 +1,21 @@
+.Header{
+    text-align: center;
+  }
+  li{
+    display: inline;
+    margin-right: 20px;
+  }
+  .links:hover{
+    color:orange;
+    cursor: pointer;
+  }
+  hr{
+   background-color:lightgray;
+   color: white;
+  }
+  .links{
+    text-decoration: none !important;
+    font-style: normal;
+    color: black;
+  }
+  
